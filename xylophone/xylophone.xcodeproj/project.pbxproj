@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7320EDFE28A3039E00BD7ABA /* Sounds in Resources */ = {isa = PBXBuildFile; fileRef = 7320EDFD28A3039E00BD7ABA /* Sounds */; };
+		7320EE0428A40DFF00BD7ABA /* Sounds in Resources */ = {isa = PBXBuildFile; fileRef = 7320EE0328A40DFF00BD7ABA /* Sounds */; };
 		73B4ECB428A2FE280095AC11 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B4ECB328A2FE280095AC11 /* AppDelegate.swift */; };
 		73B4ECB628A2FE280095AC11 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B4ECB528A2FE280095AC11 /* SceneDelegate.swift */; };
 		73B4ECB828A2FE280095AC11 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B4ECB728A2FE280095AC11 /* ViewController.swift */; };
@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7320EDFD28A3039E00BD7ABA /* Sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Sounds; sourceTree = "<group>"; };
+		7320EE0328A40DFF00BD7ABA /* Sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Sounds; sourceTree = "<group>"; };
 		73B4ECB028A2FE280095AC11 /* xylophone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = xylophone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		73B4ECB328A2FE280095AC11 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		73B4ECB528A2FE280095AC11 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,7 +65,7 @@
 				73B4ECBC28A2FE2A0095AC11 /* Assets.xcassets */,
 				73B4ECC728A301370095AC11 /* LaunchScreen.storyboard */,
 				73B4ECC128A2FE2A0095AC11 /* Info.plist */,
-				7320EDFD28A3039E00BD7ABA /* Sounds */,
+				7320EE0328A40DFF00BD7ABA /* Sounds */,
 			);
 			path = xylophone;
 			sourceTree = "<group>";
@@ -130,7 +130,7 @@
 			files = (
 				73B4ECC828A301380095AC11 /* LaunchScreen.storyboard in Resources */,
 				73B4ECBD28A2FE2A0095AC11 /* Assets.xcassets in Resources */,
-				7320EDFE28A3039E00BD7ABA /* Sounds in Resources */,
+				7320EE0428A40DFF00BD7ABA /* Sounds in Resources */,
 				73B4ECBB28A2FE280095AC11 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
